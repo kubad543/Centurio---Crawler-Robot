@@ -20,5 +20,5 @@ The project includes the full build of the robot, its electronics, and programmi
 
 
 ### Screenshots
-![Robot Centurio](centurio.png)
-![Robot Camera Feed](camera.png)
+![Robot Centurio](centurio.jpg)
+![Robot Camera Feed](camera.PNG)
