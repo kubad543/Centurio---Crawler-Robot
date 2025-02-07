@@ -1,5 +1,9 @@
 # Robot Centurio
 
+### Screenshots
+![Robot Centurio](centurio.jpg)
+![Robot Camera Feed](camera.PNG)
+
 ## Description
 Centurio is a tracked robot designed for autonomous operation. Initially controlled by Arduino, it later switches to Raspberry Pi for autonomous driving. The robot is equipped with two motors, a camera, and uses the YOLO model for object detection to identify bottles. The robot can be manually controlled via Wi-Fi from a computer and also operate autonomously, driving towards a detected bottle and stopping in front of it.
 
@@ -18,7 +22,3 @@ The project includes the full build of the robot, its electronics, and programmi
 - **YOLO**: Object detection model for identifying bottles.
 - **Python**: For programming the Raspberry Pi and controlling the robot.
 
-
-### Screenshots
-![Robot Centurio](centurio.jpg)
-![Robot Camera Feed](camera.PNG)
